@@ -29,7 +29,7 @@ I believe in continuous learning, building real-world projects, and solving codi
 ![VSCode](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-
+[![karadlakshay7's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=karadlakshay7&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
 ## 📱 Projects
 
 - 🔐 **Login Application** – A clean and reusable Android login/sign-up template using Java/XML
