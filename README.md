@@ -28,8 +28,8 @@ I believe in continuous learning, building real-world projects, and solving codi
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
+[![karadlakshay7's LeetCode Stats](https://coding-profile.vercel.app/api?username=karadlakshay7&theme=Light)](https://github.com/Pranshu321/coding-profiles)
 ---
-[![karadlakshay7's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=karadlakshay7&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
 ## 📱 Projects
 
 - 🔐 **Login Application** – A clean and reusable Android login/sign-up template using Java/XML
