@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lakshay Karad
 
-🎓 BCA Student | 💻 Android Developer in Progress | ⚙️ DSA Enthusiast | 🌐 Web Learner
+🎓 BCA Student | 💻 Android Developer | ⚙️ DSA Enthusiast | 🌐 Web Devloper
 
 ---
 
