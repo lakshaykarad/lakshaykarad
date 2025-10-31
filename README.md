@@ -127,7 +127,7 @@ Alongside Android, I explore **Web Development** and constantly improve my **Pro
 
 <p align="center">
   <a href="mailto:karadlakshay7@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-  <a href="https://www.linkedin.com/in/lakshaykarad"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://www.linkedin.com/in/lakshay-karad"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
   <a href="https://leetcode.com/karadlakshay7"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="30"/></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30"/></a>
   <a href="https://github.com/lakshaykarad"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
