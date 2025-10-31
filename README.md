@@ -95,41 +95,9 @@ Alongside Android, I explore **Web Development** and constantly improve my **Pro
 - **Version Control:** Git, GitHub  
 - **IDEs:** Android Studio, IntelliJ IDEA, VS Code  
 - **Hosting:** Netlify (for portfolio and web apps)  
-- **Collaboration:** Agile development & Git branching workflows  
+- **Collaboration:** Agile development & Git branching workflows
 
----
-
-## 📱 Featured Projects
-
-### 🛍️ **ShopEase – Full-Stack E-Commerce App**
-**Kotlin · Jetpack Compose · Firebase · Retrofit (Platzi API)**  
-> Built a modern Android e-commerce app featuring secure authentication, live product data, cart management, and clean UI — powered by MVVM and Clean Architecture.
-
----
-
-### 📰 **News Application**
-**Java · XML · BBC & NYTimes APIs**  
-> Real-time news reader app with categorized feeds, breaking news updates, and full-article views.
-
----
-
-### 🍳 **Recipe Application**
-**Kotlin · Jetpack Compose · Retrofit · MVVM**  
-> Displays recipe data from a REST API with an elegant Compose-based UI and detailed view pages.
-
----
-
-### 💼 **Portfolio Website**
-**HTML · CSS · JavaScript · Netlify**  
-> Responsive personal portfolio website showcasing my projects, skills, and achievements.
-
----
-
-### 🗒️ **Notes & Utility Apps**
-**Kotlin · Java · XML**  
-> Created multiple small-scale Android apps — including Notes, BMI Calculator, and Movie Explorer — focusing on CRUD operations, API integration, and modular code.
-
----
+--- 
 
 ## 🏆 Achievements
 
