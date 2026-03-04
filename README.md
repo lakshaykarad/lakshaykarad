@@ -24,7 +24,7 @@ I regularly solve **DSA problems on LeetCode** to improve my algorithmic thinkin
 🔗 **Profile:** https://leetcode.com/karadlakshay7
 
 <p align="center">
-  <img src="https://www.readmecodegen.com/api/leetcode-stats/karadlakshay7?theme=gradient" alt="LeetCode Stats" />
+  <img src="https://www.readmecodegen.com/api/leetcode-stats/karadlakshay7?theme=gradient" alt="LeetCode Stats" width="450"/>
 </p>
 
 ## 🏆 Achievements
