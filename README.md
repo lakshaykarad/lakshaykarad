@@ -9,101 +9,27 @@
 ---
 
 ## 🧠 About Me
-
 I'm **Lakshay Karad**, a passionate **Android Developer** currently pursuing my **Bachelor of Computer Applications (BCA)** at *University Maharaja College, Jaipur*.  
 
-I specialize in building **modern, scalable Android applications** using **Kotlin**, **Jetpack Compose**, **Firebase**, and **Clean Architecture (MVVM)** — all while following **Material Design** principles.  
+I specialize in building **modern, scalable Android applications** using **Kotlin**, **Jetpack Compose**, **Firebase**, and **Clean Architecture (MVVM)** while following **Material Design** principles.  
 
-Alongside Android, I explore **Web Development** and constantly improve my **Problem Solving** skills — with **300+ DSA problems solved** on **LeetCode**.  
+Along with Android Development, I constantly improve my **Problem Solving** skills — having solved **350+ DSA problems on LeetCode**.
 
 > 🚀 Always learning. Always building. Always growing.
-
 ---
+## 🧠 LeetCode
 
-## 🛠️ Tech Stack
+I regularly solve **DSA problems on LeetCode** to improve my algorithmic thinking.
 
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,python,c,html,css,js,php" />
+🔗 **Profile:** https://leetcode.com/karadlakshay7
+
+<p align="center">
+  <img src="https://www.readmecodegen.com/api/leetcode-stats/karadlakshay7?theme=gradient" alt="LeetCode Stats" />
 </p>
-
----
-
-### 📱 Mobile Development & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,gradle,firebase" />
-</p>
-
-- **Android SDK** — Core Android development environment  
-- **Jetpack Libraries** — Lifecycle · Navigation · ViewModel · LiveData  
-- **Firebase** — Authentication · Firestore · Cloud Storage · Realtime DB  
-
----
-
-### ⚙️ Frameworks & Libraries
-<p align="left">
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Retrofit-007ACC?style=for-the-badge&logo=square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Room-FF6F00?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white" />
-</p>
-
-- **Jetpack Compose** — Modern declarative UI toolkit for Android  
-- **Retrofit** — Type-safe HTTP client for RESTful APIs  
-- **Room** — ORM layer for local database persistence  
-- **Material Design** — Google's UI/UX system and components  
-
----
-
-### 🧩 Architecture
-<p align="left">
-  <img src="https://img.shields.io/badge/MVVM-FF4081?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-00C853?style=for-the-badge&logo=android&logoColor=white" />
-</p>
-
-- **MVVM (Model-View-ViewModel)** — Clean, scalable UI architecture  
-- **Clean Architecture** — Separation of Domain, Data, and Presentation layers  
-- **Kotlin Coroutines & Flow** — For async tasks and reactive data streams  
-
----
-
-### 🌐 Web Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
-</p>
-
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS  
-- **Backend (Basics):** PHP, REST APIs  
-
----
-
-### 🗃️ Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-- **SQL / MySQL** — Database design, CRUD operations, joins  
-- **Room Database** — Local persistence with offline caching  
-
----
-
-### ⚙️ Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,netlify" />
-</p>
-
-- **Version Control:** Git, GitHub  
-- **IDEs:** Android Studio, IntelliJ IDEA, VS Code  
-- **Hosting:** Netlify (for portfolio and web apps)  
-- **Collaboration:** Agile development & Git branching workflows
-
---- 
 
 ## 🏆 Achievements
 
-- 🧠 Solved **300+ DSA problems** on **LeetCode**  
-- ⚙️ Strong in **OOP**, **DSA**, and **Software Design Principles**  
-- 🚀 Hands-on experience with **MVVM**, **Jetpack Compose**, and **Clean Architecture**
+- 🧠 Solved **350+ DSA problems** on **LeetCode**  
 
 ---
 
@@ -112,7 +38,6 @@ Alongside Android, I explore **Web Development** and constantly improve my **Pro
 🎓 **Bachelor of Computer Applications (BCA)**  
 📍 *University Maharaja College, Jaipur*  
 📅 *2023 – Present*  
-📊 **CGPA:** 7.3 / 10  
 
 ---
 
