@@ -14,5 +14,6 @@ I'm a final-year BCA student in Jaipur and a Native Android Developer. I like bu
 I like to keep my data structures and algorithmic thinking sharp. I've solved about 350+ problems over on [LeetCode](https://leetcode.com/karadlakshay7).
 
 ### 📫 Let's Connect
-* [LinkedIn]([YOUR_LINKEDIN_LINK_HERE](https://www.linkedin.com/in/lakshay-karad/))
-* [Email](karadlakshay7@gmail.com)  
+* [LinkedIn](https://www.linkedin.com/in/lakshay-karad/)
+* [Email](mailto:karadlakshay7@gmail.com)
+
