@@ -13,18 +13,7 @@ I build complete systems end to end — Android clients in Kotlin and the backen
 - **Infrastructure & Data:** Docker, Docker Compose, Nginx, PostgreSQL, Redis, SQLite
 - **Maps & Geo:** OSRM, OpenStreetMap, MapLibre, Nominatim
 - **Tools:** Git, GitHub, Postman, Locust
-
----
-
-## Projects
-
-| # | Project | Tech Stack | What It Does | Links |
-|---|---|---|---|---|
-| 1 | **RapidLink** | Kotlin, Compose, FastAPI, PostgreSQL, OSRM, Docker, MapLibre | • Self-hosted navigation engine, no paid map API<br>• Offline GPS tracking via Foreground Service<br>• Multi-route ETA + traffic simulation<br>• JWT/OAuth2 auth | [App](https://github.com/lakshaykarad/RapidLink_Version_2.0) · [Backend](https://github.com/lakshaykarad/RapidLink-Backend) · [Download APK](https://github.com/lakshaykarad/RapidLink_Version_2.0/releases/tag/RapidLink_V2.0) |
-| 2 | **URL-Shorten** | Python, FastAPI, PostgreSQL, Redis, Nginx, Docker | • 3 nodes behind Nginx, load balanced<br>• Redis cache-aside reads + atomic rate limiting<br>• Collision-resistant short codes<br>• Load-tested with Locust up to 5,000 users | [Repo](https://github.com/lakshaykarad/URL-Shorten) |
-| 3 | **MechanicHub** | Kotlin, Compose, Hilt, Retrofit, FastAPI | • Mechanic discovery + service filtering<br>• Service request submission<br>• Offline fallback to local data | [App](https://github.com/lakshaykarad/MechanicHub) · [Backend](https://github.com/lakshaykarad/MechanicHub_Backend) |
-| 4 | **Web2Native** | Kotlin, Compose, Room, Firebase Auth, WorkManager | • Google Sign-In<br>• Custom WebView browser<br>• Deduplicated history tracking<br>• Daily local notifications | [Repo](https://github.com/lakshaykarad/Web2Native) |
-| 5 | **ShopEase** | Kotlin, Compose, Firebase Auth, Retrofit, Room | • Product search, cart, favorites, orders<br>• Offline product caching<br>• Clean Architecture layers | [Repo](https://github.com/lakshaykarad/ShopEase-SRC) |
+ 
 
 ---
 
